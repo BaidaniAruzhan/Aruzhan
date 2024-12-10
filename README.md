@@ -14,4 +14,4 @@
     <p><strong>Менің мамандығым коды:</strong> 6В05301</p>
     <p><strong>Интернет сілтеме:</strong> <a href="https://aruzhanbaidani.wixsite.com/aruzhan" target="_blank">Менің сайтым</a></p>
 </body>
-</html>
+</html><meta name="google-site-verification" content="dqIhKWA-HZUpfQwtKqz7TtTTCRLlWS6Sm0s6boPVeYg" />
