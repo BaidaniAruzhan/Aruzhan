@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="kk">
-<head>
+<head><meta name="google-site-verification" content="dqIhKWA-HZUpfQwtKqz7TtTTCRLlWS6Sm0s6boPVeYg" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Байдани Аружан туралы</title>
@@ -14,4 +14,4 @@
     <p><strong>Менің мамандығым коды:</strong> 6В05301</p>
     <p><strong>Интернет сілтеме:</strong> <a href="https://aruzhanbaidani.wixsite.com/aruzhan" target="_blank">Менің сайтым</a></p>
 </body>
-</html><meta name="google-site-verification" content="dqIhKWA-HZUpfQwtKqz7TtTTCRLlWS6Sm0s6boPVeYg" />
+</html>
