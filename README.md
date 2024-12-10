@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Байдани Аружан туралы</title>
-</head><meta name="google-site-verification" content="dqIhKWA-HZUpfQwtKqz7TtTTCRLlWS6Sm0s6boPVeYg" />
+</head> <meta name="google-site-verification" content="dqIhKWA-HZUpfQwtKqz7TtTTCRLlWS6Sm0s6boPVeYg" />
 <body>
     <h1>Мен туралы</h1>
     <p><strong>Менің атым:</strong> Байдани Аружан</p>
